@@ -20,3 +20,14 @@ mdp bandit 19: KpsOfPkcP7i1FlIExk2QEjyt6dw8dxZI
 mdp bandit 20: 4pIjcunZ0fK2vmp3IwfG8Vf7VhxD6pOA
 mdp bandit 21: bW9kBv5WC3P4yoDyf12LSdGuNz5ka6hY
 mdp bandit 22: RYVux2rHEm9tiXHmLFzuR7Vhx6AZQMEz
+mdp bandit 23: gKXDTAXnIz3OBxiPjRZ2uqutUlPZrBsw
+mdp bandit 24: hVQMk3lJNsmQ7VF3ubyrNNBom7BOgVXv
+mdp bandit 25: SoHfqMOEqIX2IYKVciZxvgpR9a2Djx4P
+mdp bandit 26: use sshkey, trick more command, set shell and use /bin/bash as shell
+mdp bandit 27: STJLJBRRphMxKB392CT4iOr5CbzPU9ER
+mdp bandit 28: y8Yd2ssKcpHpud7UvOSOxwamRMzIGIeQ
+mdp bandit 29: Em7eGtqaMySwNFjCpwzzHhLhospOcdt0
+mdp bandit 30: jq9Dfg2rXsfYsWMgFuKlXhphjdH7USgX
+mdp bandit 31: 82NkymblpGBYmIXG6ZQ8YldBYstHpfUf
+mdp bandit 32: pWuj5jBQ6IgV0NXwiH6g1pXRF8S1YvbT
+mdp bandit 33: u4P2CyPOwPGLe94RdD9Uo2FxFwvnFswM
